@@ -2,7 +2,7 @@ from imageai.Classification import ImageClassification
 import os
 
 print("Hello World")
-
+print("Again hello word. This is our new test feature!")
 execution_path = os.getcwd()
 
 prediction = ImageClassification()
