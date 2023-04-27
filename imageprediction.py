@@ -1,6 +1,8 @@
 from imageai.Classification import ImageClassification
 import os
 
+print("Hello World")
+
 execution_path = os.getcwd()
 
 prediction = ImageClassification()
