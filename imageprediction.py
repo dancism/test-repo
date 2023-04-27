@@ -1,8 +1,8 @@
 from imageai.Classification import ImageClassification
 import os
 
-print("Hello World")
-print("Again hello word. This is our new test feature!")
+print("Hello big big World")
+print("This is our new test feature!")
 execution_path = os.getcwd()
 
 prediction = ImageClassification()
